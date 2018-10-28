@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "9685391204",
+    "firebase_url": "https://visitwaterford-48f7c.firebaseio.com",
+    "project_id": "visitwaterford-48f7c",
+    "storage_bucket": "visitwaterford-48f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9685391204:android:6a6e25d835da147f",
+        "android_client_info": {
+          "package_name": "ie.app.activities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9685391204-6j19k3231t3su928pmuq83e3nro3kk5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDplNCmSvyyouLln--s8IHt2NqJLe5xNrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
